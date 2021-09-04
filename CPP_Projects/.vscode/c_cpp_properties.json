@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "gcc",
+            "includePath": [
+                "${workspaceRoot}",
+                "D:\\AppData\\MediaPipeTools\\MSYS2\\mingw64\\x86_64-w64-mingw32\\include\\c++"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "D:/AppData/VS2019/VS_Community/VC/Tools/MSVC/14.29.30037/bin/Hostx86/x86/cl.exe"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "GCC",
+            "includePath": [
+                "${workspaceRoot}",
+                "D:\\AppData\\MediaPipeTools\\MSYS2\\mingw64\\x86_64-w64-mingw32\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "D:/AppData/MediaPipeTools/MSYS2/usr/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
